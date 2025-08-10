@@ -119,8 +119,10 @@ app.use(cors({
 | Home Page | Create Note |
 |-----------|-------------|
 | ![Home](screenshots/home.png) | ![Create](screenshots/create.png) |
+<img width="1899" height="880" alt="Screenshot 2025-08-10 151738" src="https://github.com/user-attachments/assets/576d6c4f-efea-43ea-bd31-4d9721b49f1d" />
+<img width="1919" height="884" alt="Screenshot 2025-08-10 151841" src="https://github.com/user-attachments/assets/23a22d98-70f3-4b3d-b623-e4b200861659" />
+<img width="1893" height="881" alt="Screenshot 2025-08-10 152009" src="https://github.com/user-attachments/assets/f2a2330e-f5c5-4abb-960d-8824bf733565" />
 
----
 
 ## 🚀 Deployment
 
